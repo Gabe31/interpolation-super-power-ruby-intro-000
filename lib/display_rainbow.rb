@@ -11,3 +11,5 @@ def display_rainbow(colors)
 end
 
 colors = ['red', 'orange', 'green', 'yellow', 'blue', 'indigo', 'violet']
+
+puts display_rainbow(colors)
